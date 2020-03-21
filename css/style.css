@@ -173,5 +173,11 @@ color: #0C72BC;
 }
 /*video_section end*/
 
-
+/*footer start*/
+#footer{}
+#footer img{
+    width: 100%;
+    height: auto;
+}
+/*footer end*/
 
