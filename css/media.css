@@ -63,7 +63,7 @@
 }
 
 
-.estamos .estamos_inner,.escribinos .escribinos_inner {
+.estamos .estamos_inner,.escribinos .escribinos_inner,.video_section .video_section_inner {
     width: 100%;
     margin: auto;
 }
@@ -146,7 +146,8 @@
 }
 
 
-.estamos .estamos_inner,.escribinos .escribinos_inner {
+.estamos .estamos_inner,.escribinos .escribinos_inner,
+.video_section .video_section_inner {
     width: 100%;
     margin: auto;
 }
@@ -209,7 +210,8 @@
 .banner p {
     font-size: 25px;
 }
-.estamos .estamos_inner,.escribinos .escribinos_inner {
+.estamos .estamos_inner,.escribinos .escribinos_inner,
+.video_section .video_section_inner {
     width: 100%;
     margin: auto;
 }
