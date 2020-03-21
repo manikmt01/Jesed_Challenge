@@ -1,0 +1,177 @@
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-Regular.woff2') format('woff2'),
+    url('../fonts/ProximaNova-Regular.woff') format('woff'),
+    url('../fonts/ProximaNova-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Proxima Nova Rg';
+    src: url('../fonts/ProximaNova-Bold.woff2') format('woff2'),
+    url('../fonts/ProximaNova-Bold.woff') format('woff'),
+    url('../fonts/ProximaNova-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Proxima Nova Lt';
+    src: url('../fonts/ProximaNova-Light.woff2') format('woff2'),
+    url('../fonts/ProximaNova-Light.woff') format('woff'),
+    url('../fonts/ProximaNova-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Proxima Nova Exbold';
+    src: url('../fonts/ProximaNova-Extrabld.woff2') format('woff2'),
+    url('../fonts/ProximaNova-Extrabld.woff') format('woff'),
+    url('../fonts/ProximaNova-Extrabld.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Proxima Nova Medium';
+    src: url('../fonts/ProximaNova-Medium.woff2') format('woff2'),
+    url('../fonts/ProximaNova-Medium.woff') format('woff'),
+    url('../fonts/ProximaNova-Medium.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+    font-family: 'Proxima Nova';
+}
+
+/*header start*/
+#header{
+    padding: 20px 0;
+    background-color: #fff;
+}
+/*header end*/
+
+
+/*banner start*/
+.banner{
+    background-color: #3B58B8;
+    color: #fff;
+    padding: 80px 0px 40px 0px;
+}
+.banner h1 {
+    margin-bottom: 0;
+    font-size: 90px;
+    font-family: 'Proxima Nova Rg';
+}
+.banner h2 {
+    margin-bottom: 0;
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-family: 'Proxima Nova Rg';
+}
+.banner p {
+    margin-bottom: 0;
+    font-size: 28px;
+    font-family: 'Proxima Nova Medium';
+}
+.banner a {
+    margin-top: 40px;
+    display: inline-block;
+    background-color: rgba(241, 104, 118, 1);
+    border: solid rgba(96, 94, 94, 1) 0px;
+    color: #fff;
+    padding: 10px 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    transition: all ease .6s;
+}
+.banner a:hover{
+    text-decoration: none;
+    background-color: #273B7B;
+}
+/*banner end*/
+
+/*estamos start*/
+.estamos{
+    padding: 60px 0;
+}
+.estamos .estamos_inner{
+    width: 90%;
+    margin: auto;
+}
+.estamos .estamos_inner h4 {
+    font-size: 28px;
+    color: #0C72BC;
+    font-family: 'Proxima Nova Rg';
+    margin-bottom: 60px;
+}
+.estamos .estamos_inner h3{
+    color: #2F2E2E;
+    margin-bottom: 0;
+    font-family: 'Proxima Nova Rg';
+    font-size: 24px;
+}
+.estamos .estamos_inner p{
+    font-size: 17px;
+    color: #2F2E2E;
+}
+.estamos .estamos_inner a {
+    font-family: 'Proxima Nova Rg';
+    display: inline-block;
+    color: #0C72BC;
+    font-size: 24px;
+    text-decoration-line: underline;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    transition: all ease .6s;
+}
+.estamos .estamos_inner a:hover{
+    opacity: .8;
+}
+/*estamos end*/
+
+/*escribinos start*/
+.escribinos{}
+.escribinos .escribinos_inner{
+    width: 90%;
+    margin: auto;
+    padding: 30px 0;
+    border-top: 1px solid #4e4848;
+    border-bottom: 1px solid #4e4848;
+    margin-bottom: 60px;
+}
+.escribinos .escribinos_inner{}
+.escribinos .escribinos_inner h3{
+    font-family: 'Proxima Nova Rg';
+    color: #0C72BC;
+    font-size: 28px;
+
+}
+.escribinos .escribinos_inner h3 a{
+    color: #0C72BC;
+}
+/*escribinos end*/
+/*video_section start*/
+.video_section{
+    padding-bottom: 60px;
+}
+.video_section .video_section_inner{
+    width: 90%;
+    margin: auto;
+}
+.video_section .video_section_inner h6{
+    margin-bottom: 60px;
+}
+.video_section .video_section_inner h6 a{
+    font-family: 'Proxima Nova Rg';
+    display: inline-block;
+    font-size: 20px;
+color: #0C72BC;
+}
+.video_section .video_section_inner_video{}
+.video_section .video_section_inner_video iframe{
+    height: 500px;
+}
+/*video_section end*/
+
+
+

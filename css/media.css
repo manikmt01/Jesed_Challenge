@@ -1,0 +1,316 @@
+/*Extra small devices (portrait phones, less than 320px)*/
+@media  (max-width: 320px){
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 360px)*/
+@media  (max-width: 360px){
+	
+	.video_section .video_section_inner_video iframe {
+    height: 200px !important;
+}
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 375px)*/
+@media  (max-width: 375px){
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 414px)*/
+@media  (max-width: 414px){
+	
+	
+	
+	
+	
+	
+	
+}
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+	.banner h1 {
+    font-size: 38px;
+    margin-bottom: 10px;
+}
+	
+.banner h2 {
+    font-size: 16px;
+}
+
+
+.banner p {
+    font-size: 16px;
+}
+
+
+.banner a {
+    margin-top: 30px;
+    padding: 8px 35px;
+    font-size: 18px;
+}
+
+
+.estamos .estamos_inner,.escribinos .escribinos_inner {
+    width: 100%;
+    margin: auto;
+}
+
+.escribinos .escribinos_inner {
+	 margin-bottom: 40px;
+}
+.estamos .estamos_inner h4 {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.estamos .estamos_inner p {
+    font-size: 16px;
+}
+
+.estamos .estamos_inner a {
+    font-size: 20px;
+}
+.estamos .estamos_inner h3 {
+    font-size: 20px;
+}
+.escribinos .escribinos_inner h3 {
+    font-size: 20px;
+}
+
+
+.video_section .video_section_inner_video iframe {
+    height: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+
+
+
+
+	.banner h1 {
+    font-size: 52px;
+    margin-bottom: 10px;
+}
+	
+.banner h2 {
+    font-size: 22px;
+}
+
+
+.banner p {
+    font-size: 20px;
+}
+
+
+.estamos .estamos_inner,.escribinos .escribinos_inner {
+    width: 100%;
+    margin: auto;
+}
+.escribinos .escribinos_inner {
+	 margin-bottom: 40px;
+}
+.estamos .estamos_inner h4 {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.estamos .estamos_inner p {
+    font-size: 16px;
+}
+
+.estamos .estamos_inner a {
+    font-size: 22px;
+}
+.estamos .estamos_inner h3 {
+    font-size: 22px;
+}
+.escribinos .escribinos_inner h3 {
+    font-size: 24px;
+}
+
+.video_section .video_section_inner_video iframe {
+    height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+	    
+	.banner h1 {
+    font-size: 72px;
+}
+	
+.banner h2 {
+    font-size: 30px;
+}
+
+
+.banner p {
+    font-size: 25px;
+}
+.estamos .estamos_inner,.escribinos .escribinos_inner {
+    width: 100%;
+    margin: auto;
+}
+.escribinos .escribinos_inner {
+	 margin-bottom: 40px;
+}
+.estamos .estamos_inner h4 {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.video_section .video_section_inner_video iframe {
+    height: 400px;
+}
+
+
+
+
+	
+	
+	
+	
+	
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    
+    
+	
+	
+	
+	
+}
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1440px) and (max-width: 1699.98px){}
+
+
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1700px) and (max-width: 2099.98px){
+	
+	
+	
+	
+	
+	
+}
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 2100px){
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
